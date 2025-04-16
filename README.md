@@ -30,6 +30,3 @@ Data Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 - Data Cleaning
 - Build the Recommender System
 - Build the app using Streamlit
-
-### Website 
-https://davidsonity-netflix-recommendation-app-gopbme.streamlit.app/
